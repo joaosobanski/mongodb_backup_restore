@@ -1,0 +1,9 @@
+{
+  "name": "mongodb_backup_restore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb-snapshot": "^1.4.1"
+  }
+}
